@@ -1,0 +1,11 @@
+#reservations {
+  float: right;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  margin-top: 240px;
+}
+
+#carousel {
+  display: inline-block
+}
